@@ -17,19 +17,13 @@ This repository contains two Java Swing GUI applications: a calculator and a reg
 A fully functional calculator built with Java Swing that supports basic arithmetic operations.
 
 # Features:
-Basic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)
-
-Number Input: Digits 0-9 and decimal point (.)
-
-Control Functions:
-
-Clear (resets everything)
-
-Delete (removes last character)
-
-Equals (=) to perform calculations
-
-Error Handling: Basic operation handling with double precision arithmetic
+  - Basic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)
+  - Number Input: Digits 0-9 and decimal point (.)
+  - Control Functions:
+  - Clear (resets everything)
+  - Delete (removes last character)
+  - Equals (=) to perform calculations
+  - Error Handling: Basic operation handling with double precision arithmetic
 
 # UI Layout:
 Text display field at the top
